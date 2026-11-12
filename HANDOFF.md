@@ -8,7 +8,7 @@ Paste this into a chat opened in the Startup Bible project.
 
 ## Current project
 
-Startup Bible recommends what to test or build from customer conversations, public research, or a founder hypothesis. It can draft a scoped pilot or ask one focused question when the answer would change it. Projects can opt in separately to background guidance and scheduled skill reviews. [Current skill](.agents/skills/startup-bible/SKILL.md) · [Behavior checks](examples/skill-checks.md) · [How to try it](README.md)
+Startup Bible recommends what to test or build from customer conversations, public research, or a founder hypothesis. It can draft a scoped pilot or ask one focused question when the answer would change it. Projects can opt in separately to background guidance and scheduled skill reviews. [Current skill](skills/startup-bible/SKILL.md) · [Behavior checks](skills/startup-bible/references/behavior-checks.md) · [How to install](README.md#install)
 
 ## Decisions from the discussion
 

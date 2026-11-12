@@ -18,7 +18,7 @@ Expect one question asking which outcome to test, unassigned jobs or reschedulin
 
 ## Pasted public research
 
-> Use $startup-bible to recommend what I should test first. I'm thinking of building automated attendance reminders for U.S. middle schools. I haven't spoken with a school yet. Work from this pasted note and reply in chat.
+> Use $startup-bible to recommend what I should test first. I'm thinking of building automated attendance reminders for U.S. middle schools. I haven't spoken with a school yet. Use only the pasted note as evidence and reply in chat.
 >
 > Public research note. The U.S. Department of Education reports that more than 14 million students nationwide were chronically absent in school year 2021–22. Chronic absence generally means missing at least 10% of school days. [Supporting Student Attendance and Engagement](https://www.ed.gov/teaching-and-administration/supporting-students/seac/supporting-student-attendance-and-engagement)
 
@@ -26,7 +26,7 @@ Expect an attributed national finding, a clear statement of the reminder hypothe
 
 ## Quiet checkpoint
 
-Enable background guidance in a scratch project using the README instruction. Paste this prompt in a fresh chat. [Project instructions](../README.md#optional-project-features)
+Enable background guidance in a scratch project. Paste this prompt in a fresh chat. [Project instructions](project-options.md#opt-in-background-guidance)
 
 > Summarize this update in chat for my notes.
 >
